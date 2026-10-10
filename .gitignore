@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!.gitattributes
+!NLP_Glassdoor_FernandoLopez.ipynb
+!Presentacion_Tesla_Glassdoor.pptx
+!glassdoor_reviews_hr.parquet
